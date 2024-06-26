@@ -6,3 +6,8 @@ torch
 transformers
 llama-index-readers-web
 llama-index-readers-database
+llama-index-embeddings-huggingface
+llama-index-readers-web
+llama-index-program-openai
+llama-index-vector-stores-postgres
+flash_attn
