@@ -1,0 +1,8 @@
+python-dotenv
+llama-index
+jupyter
+ipykernel
+torch
+transformers
+llama-index-readers-web
+llama-index-readers-database
