@@ -10,4 +10,7 @@ llama-index-embeddings-huggingface
 llama-index-readers-web
 llama-index-program-openai
 llama-index-vector-stores-postgres
-flash_attn
+InstructorEmbedding 
+torch 
+transformers 
+sentence_transformers==2.2.2
